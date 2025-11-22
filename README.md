@@ -8,10 +8,10 @@ This repo is just really one file: `main.py`, which prints out data streamed ove
 3. Replace PLACEHOLDER_FOR_NGROK_URL with the NGROK URL listed in the host computer's first terminal window.
 4. In terminal and run:
     - cd PATH/TO/REPO 
-    - python3 -m venv venv
-    - source venv/bin/activate
-    - pip install -r requirements.txt
-    - python main.py
+    - `python3 -m venv venv`
+    - `source venv/bin/activate`
+    - `pip install -r requirements.txt`
+    - `python main.py`
 
 
 ## Example Processed Data Output
