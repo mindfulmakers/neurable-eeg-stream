@@ -6,7 +6,6 @@ This repo is just really one file: `main.py`, which prints out data streamed ove
 2. Open terminal and clone this repo
     - `git clone https://github.com/mindfulmakers/neurable-eeg-stream.git`
 3. Replace PLACEHOLDER_FOR_NGROK_URL with the NGROK URL listed in the host computer's first terminal window.
-    - Should be `stream1.mindfulmakers.xyz` OR `stream2.mindfulmakers.xyz`
 4. In terminal and run:
     - cd PATH/TO/REPO 
     - python 3 -m venv venv
