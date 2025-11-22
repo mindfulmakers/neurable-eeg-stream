@@ -5,7 +5,7 @@ import ssl
 import websockets
 
 HUB_IP = (
-    "stream1.mindfulmakers.xyz"  # OR stream2.mindfulmakers.xyz
+    "ASK FOR THIS LINK AFTER SIGNING NDA" 
 )
 
 
